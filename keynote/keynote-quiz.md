@@ -14,7 +14,7 @@
 - [ ] Build in
 - [ ] Build Order
 - [ ] Action
-- [ ] Build Out
+- [x] Build Out
 
 #### Q3. For the shown below, how can you make the landscape photo fit cleanly within the circle shape?
 
@@ -41,7 +41,7 @@ D. Press the ] key.
 E. Press the Down Arrow key.
 
 - [ ] A, B, D
-- [ ] A, B, C
+- [x] A, B, C
 - [ ] B, C, D
 - [ ] C, D, E
 
@@ -54,9 +54,9 @@ E. Press the Down Arrow key.
 
 #### Q7. What type of chart can you manipulate during a presentation to change the information that is displayed?
 
-- [x] 2D
-- [x] 3D
-- [ ] Interactive
+- [ ] 2D
+- [ ] 3D
+- [x] Interactive
 - [ ] Live Data
 
 #### Q8. You build a Keynote presentation but decide that you want to give it a new look. What's the easiest way to do this?
@@ -69,7 +69,7 @@ E. Press the Down Arrow key.
 #### Q9. Which video format is best suited for use with Keynote?
 
 - [ ] MP3
-- [ ] MP4
+- [x] MP4
 - [ ] AVI
 - [ ] FLV
 
@@ -92,7 +92,7 @@ E. Press the Down Arrow key.
 #### Q12. Which animation method creates movement based on the position of an object across two consecutive slides?
 
 - [ ] Object Push
-- [ ] Magic Move
+- [x] Magic Move
 - [ ] Move In
 - [ ] Fade and Move
 
